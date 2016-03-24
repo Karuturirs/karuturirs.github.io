@@ -1,2 +1,3 @@
 # AboutMe
-profession webpage about me
+Ravi Sankar Karuturi
+Professional webpage design using impress.js
